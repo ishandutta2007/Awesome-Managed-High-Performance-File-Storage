@@ -57,9 +57,9 @@ This repository tracks notable **commercial managed high-performance file storag
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-| Project | Stars | License | Highlights & Architecture | Best For |
+| Project | GitHub_Stars | License | Highlights & Architecture | Best For |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Ceph](https://github.com/ceph/ceph)** | [<img src="https://img.shields.io/github/stars/ceph/ceph?style=social&color=white" alt="Ceph Stars"/>](https://github.com/ceph/ceph/stargazers) | LGPL-2.1 | Unified distributed storage system supplying object, block, and POSIX CephFS file system scaling to exabytes. | Unified enterprise storage infrastructure |
 | **[MinIO](https://github.com/minio/minio)** | [<img src="https://img.shields.io/github/stars/minio/minio?style=social&color=white" alt="MinIO Stars"/>](https://github.com/minio/minio/stargazers) | AGPL-3.0 | De facto standard for high-performance S3-compatible object storage with erasure coding and bitrot healing. | High-performance object storage |
